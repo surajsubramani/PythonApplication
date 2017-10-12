@@ -1,9 +1,9 @@
 
 def some_func():
-    print 'in test 1, unproductive'
+    print 'in aPPLICATION, unproductive'
     cup = 'coffee'
 
 if __name__ == '__main__':
-    # PythonApplication.py executed as script
+    # PythonApplication.py executed as script1
     # do something
     some_func()
