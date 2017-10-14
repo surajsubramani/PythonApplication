@@ -1,6 +1,6 @@
 
 def some_func():
-    print 'in APPLICATION_11 Key1, unproductive'
+    print 'in APPLICATION_11 K1, unproductive'
     cup = 'coffee'
 
 if __name__ == '__main__':
