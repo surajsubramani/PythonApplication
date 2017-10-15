@@ -1,6 +1,6 @@
 
 def some_func():
-    print 'Hell55o88'
+    print 'Hello'
     cup = 'coffe2'
 
 if __name__ == '__main__':
