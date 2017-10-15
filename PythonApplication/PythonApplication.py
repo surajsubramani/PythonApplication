@@ -9,7 +9,7 @@ def subtract(n1,n2):
 
 if __name__ == '__main__':
     # PythonApplication.py executed as script1
-    # do somethi1ng
+    # do somethinf new in Master
     sum = add(1,2)
     difference = subtract(5,3)
 
