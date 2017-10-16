@@ -5,5 +5,5 @@ def some_func():
 
 if __name__ == '__main__':
     # PythonApplication.py executed as script1
-    # do something
+    # do something test
     some_func()
