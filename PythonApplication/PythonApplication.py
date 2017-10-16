@@ -1,6 +1,6 @@
 
 def add(n1,n2):
-    sum = n1+n2 + n2
+    sum = n1+n2
     return sum
 
 def subtract(n1,n2):
@@ -9,7 +9,7 @@ def subtract(n1,n2):
 
 if __name__ == '__main__':
     # PythonApplication.py executed as script1
-    # do somethinf new in Master
+    # do something
     sum = add(1,2)
     difference = subtract(5,3)
 
